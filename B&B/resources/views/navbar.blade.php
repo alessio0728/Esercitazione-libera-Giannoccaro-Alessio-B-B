@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>B&b ANONIMO</title>
 </head>
-<body style="background: blueph">
+<body style="background: blue">
 
     
 </body>
